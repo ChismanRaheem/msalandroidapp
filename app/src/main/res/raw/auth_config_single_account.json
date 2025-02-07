@@ -1,5 +1,5 @@
 {
-  "client_id" : "a55349ba-8031-4d46-be09-d948a39993c9",
+  "client_id" : "<ClientIDHere",
   "authorization_user_agent" : "DEFAULT",
   "redirect_uri" : "msauth://com.example.msalandroidapp/dLEHxDDR78iYSMKmpNCwOUvRO1w%3D",
   "account_mode" : "SINGLE",
@@ -9,7 +9,7 @@
       "type": "AAD",
       "audience": {
         "type": "AzureADandPersonalMicrosoftAccount",
-        "tenant_id": "85086bfd-eeee-40c4-b751-ea94d9159ea3"
+        "tenant_id": "<TenantIDHere>"
       }
     }
 
